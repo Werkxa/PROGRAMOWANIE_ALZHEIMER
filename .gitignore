@@ -1,0 +1,12 @@
+.venv/
+.venv_broken/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/
+
+# pliki pomocnicze prowadzącego — nie część projektu
+P2Lab10_housing_essential_analysis.ipynb
+Projekt Programowanie 2 - wymagania.pdf
